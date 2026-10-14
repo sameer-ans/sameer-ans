@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Sameer Ansari 👋
 
-<!--
-**sameer-ans/sameer-ans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Learning Java and Programming
+🚀 Aspiring Software Developer
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Programming Fundamentals
+
+Projects
+
+- Birthday Animation — Java
